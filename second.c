@@ -1,2 +1,1 @@
-this is second file in master branch. 
-now i am modified this file.
+this is second file in master branch.
